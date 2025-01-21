@@ -6,6 +6,6 @@ import Appv2 from './Appv2.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <Appv2 />
+    <App />
   </StrictMode>,
 )
